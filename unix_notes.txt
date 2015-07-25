@@ -1,10 +1,10 @@
-pwd print working directory or present working directory
+pwd    print working directory or present working directory
 clear
 man less
 history | less
-history 5 - does not work unless you have entered in 5 commands recently
+history 5 -  does not work unless you have entered in 5 commands recently
 history5
-history
+history  Add two space between notes!!!!!
 history 10
 ls -l
 ls / Applications/
