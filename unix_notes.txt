@@ -1,0 +1,67 @@
+pwd print working directory or present working directory
+clear
+man less
+history | less
+history 5 - does not work unless you have entered in 5 commands recently
+history5
+history
+history 10
+ls -l
+ls / Applications/
+ls / Documents/
+ls /Documents
+cd
+ls /
+ls /documents
+ls ~
+cd Code\ Fellows\ Prereqs/
+ls
+cd documents/
+cd ../..
+cd ..
+cd /Users/Brandon/
+ls -t
+man ls
+ls -rt
+ls -r
+ls -lt
+cd /
+subl
+subl
+subl /etc/paths
+echo $PATH
+ec
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'brandon.feinstein@Hotmail.com'
+git config --global user.name 'Brandon Feinstein'
+git --version
+brew install git
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+xattr -d -r com.apple.quarantine /Applications/Sublime\ Text\ 2.app
+xattr -d -r com.apple.quarantine /Applications/Sublime Text 2.app
+xattr -d -r com.apple.quarantine /MacintonshHD/Applications/Sublime Text 2.app
+xattr -d -r com.apple.quarantine /Macintonsh HD/Applications/Sublime Text 2.app
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+ls -a
+ls all
+ls -a
+cd applications/
+cd bin /
+cd bin
+ls -a
+ls - l
+ls -l
+cd people
+cd cores/
+cd Downloads/
+cd Documents/
+echo "Hello"
+echo "Hello"\
+cd ~
+ls applications
+applications
