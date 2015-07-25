@@ -1,0 +1,6 @@
+Modify
+
+Add/Stage   <-----This is the Cycle
+
+Commit
+
